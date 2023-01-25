@@ -1,0 +1,11 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0px;
+}
+.banner {
+  /* width: 1440px; */
+  height: 550px;
+  background-image: url("../images/banner.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
